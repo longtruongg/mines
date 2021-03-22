@@ -38,7 +38,13 @@ class FireStoreServiceImpl extends FiresStoreService {
   void updateJouralWithTransection(Journal journal) {}
 
   @override
-  void updateJoural(Journal journal) async {}
+  void updateJoural(Journal journal) async {
+    await _firestore.collection(_collection).doc(journal.documentID).update({
+      'date': journal.date,
+      'mood': journal.mood,
+      'note': journal.note
+    }).catchError((onError) => print("On errrors:${onError.toString()}"));
+  }
 
   @override
   Future<bool> addJoural(Journal journal) async {
@@ -50,5 +56,4 @@ class FireStoreServiceImpl extends FiresStoreService {
     });
     return _docs.id != null;
   }
-
 }

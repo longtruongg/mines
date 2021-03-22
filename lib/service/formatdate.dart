@@ -11,7 +11,7 @@ class FormatDate {
     return DateFormat.d().format(DateTime.parse(dateFormat));
   }
 
-  String dateForatShortDayName(String date) {
+  String dateFormatShortDayName(String date) {
     return DateFormat.E().format(DateTime.parse(date));
   }
 }

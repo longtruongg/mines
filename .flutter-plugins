@@ -1,7 +1,9 @@
 # This is a generated file; do not edit or check into version control.
-cloud_functions=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_functions-1.0.0\\
-cloud_functions_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_functions_web-4.0.1\\
-firebase_auth=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-1.0.1\\
-firebase_auth_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-1.0.2\\
-firebase_core=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-1.0.1\\
-firebase_core_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-1.0.1\\
+cloud_firestore=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-1.0.1/
+cloud_firestore_web=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-1.0.1/
+cloud_functions=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions-1.0.0/
+cloud_functions_web=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions_web-4.0.1/
+firebase_auth=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/
+firebase_auth_web=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.0.2/
+firebase_core=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/
+firebase_core_web=/home/longtruong/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.1/
